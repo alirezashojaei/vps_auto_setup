@@ -1,0 +1,15 @@
+{ "server": {
+            "ip_domain": "",
+            "port": "22",
+            "username": "root",
+            "password": "",
+            "domain": ""},
+
+  "users": [
+            {"username": "user1",
+            "password": "12345"},
+
+            {"username": "user2",
+            "password": "12345"}]
+
+}
